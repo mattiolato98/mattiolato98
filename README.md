@@ -1,17 +1,16 @@
-# Hi there 👋, I'm Gabriele Mattioli
+### Hi there 👋, I'm Gabriele Mattioli
 
 - 🌱 I’m currently studying Computer Science at Unimore (master's degree) 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=True&hide_border=true" />
-</a>
+- 🔭 I’m currently working on different projects based on Django
+- 🌍 Visit my website: gabrielemattioli.com
+- 📫 Contact me: gabrymattioli@gmail.com
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=True&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true&layout=compact" />
 </a>
 </div>
 
