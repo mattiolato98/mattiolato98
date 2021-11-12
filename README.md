@@ -5,12 +5,13 @@
 - 🌍 Visit my website: gabrielemattioli.com
 - 📫 Contact me: gabrymattioli@gmail.com
 
+
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=True&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=true&hide_border=true" height="180em" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true&layout=compact&langs_count=8" height="180em" />
 </a>
 </div>
 
