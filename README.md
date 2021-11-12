@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying Computer Science at Unimore (master's degree) 
 - 🔭 I’m currently working on different projects based on Django
-- 🌍 Visit my website: gabrielemattioli.com
+- 🌍 Visit my website: [gabrielemattioli.com](gabrielemattioli.com)
 - 📫 Contact me: gabrymattioli@gmail.com
 
 
