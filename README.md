@@ -2,11 +2,13 @@
 
 - 🌱 I’m currently studying Computer Science at Unimore (master's degree) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=True&hide_border=true">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattiolato98&theme=dracula&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
