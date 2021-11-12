@@ -15,11 +15,14 @@
 </a>
 </div>
 
-[![Python Badge](https://img.shields.io/badge/-Python-d4a600?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Linux Badge](https://img.shields.io/badge/-Linux-185c63?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Andoird Badge](https://img.shields.io/badge/-Android-333333?style=for-the-badge&logo=android&logoColor)](#)
+<br>
+<br>
+
+[![Python Badge](https://img.shields.io/badge/-Python-d4a600?style=for-the-badge&logo=python&logoColor=white)](#) &nbsp;
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) &nbsp;
+[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](#) &nbsp;
+[![Linux Badge](https://img.shields.io/badge/-Linux-185c63?style=for-the-badge&logo=linux&logoColor=white)](#) &nbsp;
+[![Andoird Badge](https://img.shields.io/badge/-Android-333333?style=for-the-badge&logo=android&logoColor)](#) &nbsp;
 
 <!--
 **mattiolato98/mattiolato98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
