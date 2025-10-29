@@ -2,25 +2,6 @@
 
 - 📫 Contact me: gabrymattioli@gmail.com
 
-
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mattiolato98&count_private=true&show_icons=true&theme=dracula&border_radius=15&include_all_commits=true&hide_border=true" height="180em" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattiolato98&theme=dracula&border_radius=15&hide_border=true&layout=compact&langs_count=8" height="180em" />
-</a>
-</div>
-
-<br>
-<br>
-
-[![Python Badge](https://img.shields.io/badge/-Python-d4a600?style=for-the-badge&logo=python&logoColor=white)](#) &nbsp;
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) &nbsp;
-[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](#) &nbsp;
-[![Linux Badge](https://img.shields.io/badge/-Linux-185c63?style=for-the-badge&logo=linux&logoColor=white)](#) &nbsp;
-[![Andoird Badge](https://img.shields.io/badge/-Android-333333?style=for-the-badge&logo=android&logoColor)](#) &nbsp;
-
 <!--
 **mattiolato98/mattiolato98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
