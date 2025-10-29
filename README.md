@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Gabriele Mattioli
 
-- 🌱 I’m currently studying Computer Science at Unimore (master's degree) 
-- 🔭 I’m currently working on different projects based on Django
-- 🌍 Visit my website: <a href="https://gabrielemattioli.com" target="_blank">gabrielemattioli.com</a>
 - 📫 Contact me: gabrymattioli@gmail.com
 
 
